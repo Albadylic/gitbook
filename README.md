@@ -1,5 +1,5 @@
 ---
-description: This page is an introduction to using gitBook
+description: This page is an introduction to using GitBook
 ---
 
 # Initial page
