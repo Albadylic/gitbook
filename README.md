@@ -1,2 +1,6 @@
-# gitbook
-A repo sync'd with gitbook
+---
+description: This page is an introduction to using gitBook
+---
+
+# Initial page
+
